@@ -1,14 +1,14 @@
-// import { ArrowBack } from '@material-ui/icons';
-// import { Link } from 'react-router-dom';
+import { ArrowBack } from '@material-ui/icons';
+import { Link } from 'react-router-dom';
 import '../styles/layout/Contact.scss';
 
 const Contact = () => {
   return (
     <div className="contact">
         <form action="https://formspree.io/f/meqvyvyy" method="post" className='form'>
-      {/* <Link to="/">
+      <Link to="/">
           <ArrowBack className='arrow'/>
-      </Link> */}
+      </Link>
 
       <div className='inputs'>
           <h1>Contact me</h1>

@@ -1,6 +1,6 @@
 import { Close, MenuOutlined } from '@material-ui/icons';
 import {useState}from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import '../styles/layout/Header.scss';
 
@@ -27,16 +27,16 @@ const Header = () => {
           </div>
 
           <li>
-            <NavLink to="/" exact>Home</NavLink>
+            <Link to="/">Home</Link>
           </li>
           <li>
-            <NavLink to="/section"exact >About</NavLink>
+            <Link to="/section">About</Link>
           </li>
           <li>
-            <NavLink to="/works"exact>Projects</NavLink>
+            <Link to="/works">Projects</Link>
           </li>
           <li>
-            <NavLink to="/contact" exact>Contact</NavLink>
+            <Link to="/contact">Contact</Link>
           </li>
         </ul>
       </nav>

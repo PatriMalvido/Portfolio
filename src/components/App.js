@@ -16,13 +16,11 @@ function App() {
       <Contact/> */}
       
 
-      <Switch> 
+    
         <Route path="/" exact>
         <Header />
           <Main />
-          {/* <Section />
-          <Works />
-          <Contact /> */}
+      
         </Route>
 
         <Route path="/section"exact>
@@ -40,7 +38,6 @@ function App() {
           <Contact />
         </Route>
 
-      </Switch>
     </div>
   );
 }

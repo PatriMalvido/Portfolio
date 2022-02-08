@@ -29,7 +29,9 @@ const Main = () => {
             </div>
 
             <div className="buttons">
-              <button>See my work</button>
+              <Link to="/works">
+                <button>See my work</button>
+              </Link>
               <button>Hire me</button>
             </div>
           </div>
