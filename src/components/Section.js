@@ -1,14 +1,9 @@
 import '../styles/layout/Section.scss';
 import imgPatri from '../images/imgPatri.jpeg';
-// import { ArrowBack } from '@material-ui/icons';
-// import { Link } from 'react-router-dom';
 
 const Section = () => {
   return (
     <div className="section">
-      {/* <Link to="/">
-        <ArrowBack className="arrow" />
-      </Link> */}
       <div className="section__container">
         <div className="section__img">
           <img src={imgPatri} alt="" />

@@ -1,4 +1,4 @@
-import { Route, Switch } from 'react-router-dom';
+import { Route} from 'react-router-dom';
 import '../styles/App.scss';
 import Contact from './Contact';
 import Header from './Header';
@@ -9,32 +9,24 @@ import Works from './Works';
 function App() {
   return (
     <div className="App">
-      {/* <Header/>
-      <Main/>
-      <Section/>
-      <Works/>
-      <Contact/> */}
-      
 
-    
         <Route path="/" exact>
-        <Header />
+          <Header />
           <Main />
-      
         </Route>
 
         <Route path="/section"exact>
-        <Header />
+          <Header />
           <Section />
         </Route>
 
         <Route path="/works" exact>
-        <Header />
+          <Header />
           <Works />
         </Route>
 
         <Route path="/contact"exact>
-        <Header /> 
+          <Header /> 
           <Contact />
         </Route>
 
