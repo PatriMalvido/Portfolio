@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.785c7ff5.css",
-    "main.js": "./static/js/main.5a12d9ff.js",
-    "static/media/imgHtmlCss.png": "./static/media/imgHtmlCss.59bc6e57e3f2c0acf5cc.png",
-    "static/media/desktop.png": "./static/media/desktop.29f63b2dc4a3c1bf15cc.png",
-    "static/media/imgharry.png": "./static/media/imgharry.42a9920481b2420f8301.png",
+    "main.css": "./static/css/main.3680e064.css",
+    "main.js": "./static/js/main.ac645642.js",
     "static/media/imgPatri.jpeg": "./static/media/imgPatri.49f01841e87e3963c069.jpeg",
-    "static/media/imgPatrisiluetbackground.png": "./static/media/imgPatrisiluetbackground.d225e3bf92a918586deb.png",
-    "static/media/imgcatchgauss.png": "./static/media/imgcatchgauss.a61c1976abfcfac4694d.png",
-    "static/media/imgfuturama.jpg": "./static/media/imgfuturama.155a026097c5028c6f62.jpg",
+    "static/media/maquetacionWork.jpg": "./static/media/maquetacionWork.4faa4f77157c51959693.jpg",
+    "static/media/animeWork.jpg": "./static/media/animeWork.5e85ce274f9dbfe69e4b.jpg",
+    "static/media/mebackground.png": "./static/media/mebackground.69a4c98cc19edcbe76f4.png",
+    "static/media/harrypotterWork.jpg": "./static/media/harrypotterWork.b4d71cb580aeaade9cb5.jpg",
+    "static/media/apcNodeWork.jpg": "./static/media/apcNodeWork.036fc2666e932f4e378b.jpg",
+    "static/media/futuramaWork.jpg": "./static/media/futuramaWork.66d0df3b37d3d4fc2719.jpg",
+    "static/media/apcJavascriptWork.jpg": "./static/media/apcJavascriptWork.5cb6fe0dd88e56bd39e0.jpg",
+    "static/media/gameWork.jpg": "./static/media/gameWork.7256c93648ebf1298668.jpg",
+    "static/media/gamecatchWork.jpg": "./static/media/gamecatchWork.e615a15652af4ebddafc.jpg",
     "index.html": "./index.html",
-    "main.785c7ff5.css.map": "./static/css/main.785c7ff5.css.map",
-    "main.5a12d9ff.js.map": "./static/js/main.5a12d9ff.js.map"
+    "main.3680e064.css.map": "./static/css/main.3680e064.css.map",
+    "main.ac645642.js.map": "./static/js/main.ac645642.js.map"
   },
   "entrypoints": [
-    "static/css/main.785c7ff5.css",
-    "static/js/main.5a12d9ff.js"
+    "static/css/main.3680e064.css",
+    "static/js/main.ac645642.js"
   ]
 }
