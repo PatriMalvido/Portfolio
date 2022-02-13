@@ -1,38 +1,47 @@
 import '../styles/layout/Works.scss';
-//import imgwork from '../images/imgprojectcard.png';
-import imgFuturama from '../images/desktop.png';
-import imgAnonymous from '../images/imgHtmlCss.png';
-import imgwork2 from '../images/imgcatchgauss.png';
-import imgwork3 from '../images/imgharry.png';
-import imgwork4 from '../images/imgfuturama.jpg';
-
+import futuramaWork from '../images/futuramaWork.jpg';
+import harrypotterWork from '../images/harrypotterWork.jpg';
+import gameWork from '../images/gameWork.jpg';
+import apcJavascriptWork from '../images/apcJavascriptWork.jpg';
+import apcNodeWork from '../images/apcNodeWork.jpg';
+import gamecatchWork from '../images/gamecatchWork.jpg';
+import maquetacionWork from '../images/maquetacionWork.jpg';
+import animeWork from '../images/animeWork.jpg';
 
 const Works = () => {
   return (
     <div className="works">
       <div className="work__section">
         <div className="cards">
-          <img src={imgFuturama} alt="" />
+          <img src={futuramaWork} alt="" />
           <button>See work</button>
         </div>
         <div className="cards">
-          <img src={imgAnonymous} alt="" />
+          <img src={harrypotterWork} alt="" />
           <button>See work</button>
         </div>
         <div className="cards">
-          <img src={imgwork3} alt="" />
+          <img src={gameWork} alt="" />
           <button>See work</button>
         </div>
         <div className="cards">
-          <img src={imgwork4} alt="" />
+          <img src={apcJavascriptWork} alt="" />
           <button>See work</button>
         </div>
         <div className="cards">
-          <img src={imgwork4} alt="" />
+          <img src={apcNodeWork} alt="" />
           <button>See work</button>
         </div>
         <div className="cards">
-          <img src={imgwork2} alt="" />
+          <img src={gamecatchWork} alt="" />
+          <button>See work</button>
+        </div>
+        <div className="cards">
+          <img src={maquetacionWork} alt="" />
+          <button>See work</button>
+        </div>
+        <div className="cards">
+          <img src={animeWork} alt="" />
           <button>See work</button>
         </div>
       </div>

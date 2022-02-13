@@ -11,7 +11,11 @@ const Section = () => {
 
         <div className="section__content">
           <h1>Who is Patri</h1>
-          <p> Junior fronted and backend developer in progress</p>
+          <p>Después de 14 años dedicándome al comercio y a la decoración/planificación de eventos, decidí darle un giro a mi trayectoria profesional.
+          </p>
+          <p>Fue entonces cuando retomé mis estudios y me encontré con el fantástico mundo frontend.</p>
+          <p>Mi reto: aprender todos los días algo nuevo</p>
+          <p> Junior fronted and backend developer</p>
           <p>JavaSript developer</p>
           <p>React js Developer</p>
           <p>Node js, Express js and SQLite developer</p>
