@@ -1,6 +1,6 @@
 import { Instagram, Twitter, LinkedIn, GitHub } from '@material-ui/icons';
 import '../styles/layout/Main.scss';
-import imgPatri from '../images/imgPatrisiluetbackground.png';
+import imgPatri from '../images/mebackground.png';
 import { Link } from 'react-router-dom';
 
 const Main = () => {
