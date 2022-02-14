@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.3680e064.css",
-    "main.js": "./static/js/main.ac645642.js",
-    "static/media/imgPatri.jpeg": "./static/media/imgPatri.49f01841e87e3963c069.jpeg",
+    "main.css": "./static/css/main.77ef3392.css",
+    "main.js": "./static/js/main.e2deeeea.js",
+    "static/media/imgcode.jpg": "./static/media/imgcode.62f4f2cd1f9e46f0e328.jpg",
     "static/media/maquetacionWork.jpg": "./static/media/maquetacionWork.4faa4f77157c51959693.jpg",
     "static/media/animeWork.jpg": "./static/media/animeWork.5e85ce274f9dbfe69e4b.jpg",
     "static/media/mebackground.png": "./static/media/mebackground.69a4c98cc19edcbe76f4.png",
@@ -13,11 +13,11 @@
     "static/media/gameWork.jpg": "./static/media/gameWork.7256c93648ebf1298668.jpg",
     "static/media/gamecatchWork.jpg": "./static/media/gamecatchWork.e615a15652af4ebddafc.jpg",
     "index.html": "./index.html",
-    "main.3680e064.css.map": "./static/css/main.3680e064.css.map",
-    "main.ac645642.js.map": "./static/js/main.ac645642.js.map"
+    "main.77ef3392.css.map": "./static/css/main.77ef3392.css.map",
+    "main.e2deeeea.js.map": "./static/js/main.e2deeeea.js.map"
   },
   "entrypoints": [
-    "static/css/main.3680e064.css",
-    "static/js/main.ac645642.js"
+    "static/css/main.77ef3392.css",
+    "static/js/main.e2deeeea.js"
   ]
 }
