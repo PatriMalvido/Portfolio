@@ -1,63 +1,79 @@
 .section {
-    width: 100%;
-    min-height: 100vh;
-    background: linear-gradient(45deg, #833524,#a88de5);
-    overflow: hidden;
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(45deg, #833524, #a88de5);
+  overflow: hidden;
 }
 .section__container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 2.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 6.5rem;
 }
-.section__img{
-  img{
-      margin-top: 1rem;
-      width: 520px;
-      height: 600px;
-      object-fit: cover;
-      padding: 10px;
+.section__img {
+  img {
+    margin-top: 1rem;
+    width: 520px;
+    height: 600px;
+    object-fit: cover;
+    padding: 10px;
   }
 }
-.section__content{
-    margin: 0 auto;
-    text-align: center;
-    line-height: 40px;
-    h1{
-        color: #fff;
-        text-transform: uppercase;
-        font-size: 55px;
-        margin-bottom:2.125rem;
+.section__content {
+  margin: 0 auto;
+  text-align: center;
+  //line-height: 40px;
+  h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 55px;
+    margin-bottom: 2.125rem;
+  }
+  p {
+    font-weight: bolder;
+    color: #fff;
+    // text-transform: uppercase;
+    font-size: 18px;
+  }
+}
+
+.section__icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5rem;
+  ion-icon {
+    color: rgb(157, 155, 155);
+    font-size: 36px;
+    padding: 10px;
+  }
+}
+@media (max-width: 1024px) {
+  .section__container {
+    flex-direction: column;
+    margin: 2.5rem;
+    h1 {
+      font-size: 25px;
     }
     p {
-        font-weight: bolder;
-        color: #fff;
-       // text-transform: uppercase;
-        font-size: 18px;
+      font-size: 14px;
+      font-weight: normal;
     }
+  }
+  .section__icons {
+    ion-icon {
+      color: rgb(157, 155, 155);
+      font-size: 24px;
+      padding: 5px;
+    }
+  }
 }
-@media (max-width:1024px){
-    .section__container{
-        flex-direction: column;
-        margin: 2.5rem;
-        h1{
-            font-size: 25px;
-        }
-        p{
-            font-size: 12px;
-            font-weight: normal;
-          
-        }
+@media (max-width: 768px) {
+  .section__img {
+    img {
+      width: 720px;
+      height: 400px;
+      object-fit: contain;
     }
- 
-}
-@media (max-width:768px){
-      .section__img{
-        img{
-            width: 720px;
-            height: 400px;
-            object-fit: contain;
-            
-        }
-    }
+  }
 }
