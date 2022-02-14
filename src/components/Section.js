@@ -22,10 +22,6 @@ const Section = () => {
             fantástico mundo frontend.
           </p>
           <p>Mi reto: aprender todos los días algo nuevo</p>
-          {/* <p> Junior fronted and backend developer</p>
-          <p>JavaSript developer</p>
-          <p>React js Developer</p>
-          <p>Node js, Express js and SQLite developer</p> */}
 
           <div className="section__icons">
             <ion-icon name="logo-html5"></ion-icon>
