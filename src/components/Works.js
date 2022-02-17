@@ -20,19 +20,19 @@ const Works = () => {
         </div>
         <div className="cards">
           <img src={harrypotterWork} alt="" />
-          <a href="http://beta.adalab.es/modulo-3-evaluacion-final-PatriMalvido/">
+          <a href="https://patrimalvido.github.io/modulo-3-evaluacion-final-PatriMalvido/">
             <button>See work</button>
           </a>
         </div>
         <div className="cards">
           <img src={gameWork} alt="" />
-          <a href='http://beta.adalab.es/modulo-2-evaluacion-intermedia-PatriMalvido/'>
+          <a href='https://patrimalvido.github.io/modulo-2-evaluacion-intermedia-PatriMalvido/'>
           <button>See work</button>
           </a>
         </div>
         <div className="cards">
           <img src={apcJavascriptWork} alt="" />
-          <a href='http://beta.adalab.es/project-promo-o-module-2-team-5/'>
+          <a href='https://patrimalvido.github.io/project-promo-o-module-2-team-5/'>
           <button>See work</button>
           </a>
         </div>
@@ -48,13 +48,13 @@ const Works = () => {
         </div>
         <div className="cards">
           <img src={maquetacionWork} alt="" />
-          <a href='http://beta.adalab.es/modulo-1-evaluacion-final-PatriMalvido/'>
+          <a href='https://patrimalvido.github.io/modulo-1-evaluacion-final-PatriMalvido/'>
           <button>See work</button>
           </a>
         </div>
         <div className="cards">
           <img src={animeWork} alt="" />
-          <a href="http://beta.adalab.es/modulo-2-evaluacion-final-PatriMalvido/">
+          <a href="https://patrimalvido.github.io/modulo-2-evaluacion-final-PatriMalvido/">
             <button>See work</button>
           </a>
         </div>
