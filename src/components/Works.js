@@ -12,10 +12,10 @@ const Works = () => {
   return (
     <div className="works">
       <div className="work__section">
-        <div className="cards">
-          <img src={futuramaWork} alt="" />
-          <a href="https://patrimalvido.github.io/Futurama/">
-            <button>See work</button>
+      <div className="cards">
+          <img src={apcNodeWork} alt="" />
+          <a href='https://patata-game.herokuapp.com/'>
+          <button>See work</button>
           </a>
         </div>
         <div className="cards">
@@ -25,31 +25,9 @@ const Works = () => {
           </a>
         </div>
         <div className="cards">
-          <img src={gameWork} alt="" />
-          <a href='https://patrimalvido.github.io/modulo-2-evaluacion-intermedia-PatriMalvido/'>
-          <button>See work</button>
-          </a>
-        </div>
-        <div className="cards">
-          <img src={apcJavascriptWork} alt="" />
-          <a href='https://patrimalvido.github.io/project-promo-o-module-2-team-5/'>
-          <button>See work</button>
-          </a>
-        </div>
-        <div className="cards">
-          <img src={apcNodeWork} alt="" />
-          <button>See work</button>
-        </div>
-        <div className="cards">
-          <img src={gamecatchWork} alt="" />
-          <a href='https://patrimalvido.github.io/Atrapa-al-gato/'>
-          <button>See work</button>
-          </a>
-        </div>
-        <div className="cards">
-          <img src={maquetacionWork} alt="" />
-          <a href='https://patrimalvido.github.io/modulo-1-evaluacion-final-PatriMalvido/'>
-          <button>See work</button>
+          <img src={futuramaWork} alt="" />
+          <a href="https://patrimalvido.github.io/Futurama/">
+            <button>See work</button>
           </a>
         </div>
         <div className="cards">
@@ -58,6 +36,32 @@ const Works = () => {
             <button>See work</button>
           </a>
         </div>
+        <div className="cards">
+          <img src={gameWork} alt="" />
+          <a href="https://patrimalvido.github.io/modulo-2-evaluacion-intermedia-PatriMalvido/">
+            <button>See work</button>
+          </a>
+        </div>
+        <div className="cards">
+          <img src={apcJavascriptWork} alt="" />
+          <a href="https://patrimalvido.github.io/project-promo-o-module-2-team-5/">
+            <button>See work</button>
+          </a>
+        </div>
+        
+        <div className="cards">
+          <img src={gamecatchWork} alt="" />
+          <a href="https://patrimalvido.github.io/Atrapa-al-gato/">
+            <button>See work</button>
+          </a>
+        </div>
+        <div className="cards">
+          <img src={maquetacionWork} alt="" />
+          <a href="https://patrimalvido.github.io/modulo-1-evaluacion-final-PatriMalvido/">
+            <button>See work</button>
+          </a>
+        </div>
+       
       </div>
     </div>
   );

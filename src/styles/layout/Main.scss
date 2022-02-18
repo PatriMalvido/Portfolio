@@ -66,10 +66,8 @@
     }
 }
 .main__img {
-  // margin-right: 150px;
+  
     clip-path: circle(45% at 50% 49%) ;
-    //clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
-    //clip-path: ellipse(50% 48% at 50% 50%);
     cursor: pointer;
     img {
         background: linear-gradient(45deg,#833524,#a88de5);

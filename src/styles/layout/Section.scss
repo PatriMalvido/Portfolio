@@ -11,6 +11,7 @@
   margin: 6.5rem;
 }
 .section__img {
+  flex: 1;
   img {
     margin-top: 1rem;
     width: 520px;
@@ -20,9 +21,10 @@
   }
 }
 .section__content {
+  flex: 1;
   margin: 0 auto;
   text-align: center;
-  //line-height: 40px;
+
   h1 {
     color: #fff;
     text-transform: uppercase;

@@ -16,10 +16,13 @@ const Section = () => {
             decoración/planificación de eventos,
           </p>
           <p>decidí darle un giro a mi trayectoria profesional.</p>
-
-          <p>
-            Fue entonces cuando retomé mis estudios y me encontré con el
+          <p>Fue entonces cuando retomé mis estudios y me encontré con el
             fantástico mundo frontend.
+          </p>
+          <p>Me encantaría poder entrar a formar parte de una empresa en la que poder aplicar todos mis conocimientos y, al mismo tiempo, que me permita desarrollarme profesionalmente.
+          </p>
+          <p>Como persona organizada y con una gran motivación, soy capaz de adaptarme a cualquier circunstancia y dar siempre lo mejor de mí en cualquier proyecto, al mismo tiempo que me esfuerzo por trabajar en equipo y fomentar valores como los del compañerismo.
+
           </p>
           <p>Mi reto: aprender todos los días algo nuevo</p>
 

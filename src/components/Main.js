@@ -32,7 +32,9 @@ const Main = () => {
               <Link to="/works">
                 <button>See my work</button>
               </Link>
+            <a href='https://www.linkedin.com/in/patri-malvido/'>
               <button>Hire me</button>
+              </a>
             </div>
           </div>
         </div>

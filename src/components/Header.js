@@ -17,7 +17,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="header__logo">
-        <h1>PatriM</h1>
+        <h1 className='header__title'>PatriM</h1>
       </div>
 
       <nav className={active ? 'navbar active': 'navbar'}>
