@@ -13,9 +13,9 @@ const Section = () => {
           <h1>Who is Patri</h1>
           <p>
             Después de 14 años dedicándome al comercio y a la
-            decoración/planificación de eventos,
+            decoración/planificación de eventos, decidí darle un giro a mi trayectoria profesional.
           </p>
-          <p>decidí darle un giro a mi trayectoria profesional.</p>
+          
           <p>Fue entonces cuando retomé mis estudios y me encontré con el
             fantástico mundo frontend.
           </p>

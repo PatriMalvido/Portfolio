@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.77ef3392.css",
-    "main.js": "./static/js/main.e2deeeea.js",
+    "main.css": "./static/css/main.b104f4bb.css",
+    "main.js": "./static/js/main.17cb2c7e.js",
     "static/media/imgcode.jpg": "./static/media/imgcode.62f4f2cd1f9e46f0e328.jpg",
     "static/media/maquetacionWork.jpg": "./static/media/maquetacionWork.4faa4f77157c51959693.jpg",
     "static/media/animeWork.jpg": "./static/media/animeWork.5e85ce274f9dbfe69e4b.jpg",
@@ -13,11 +13,11 @@
     "static/media/gameWork.jpg": "./static/media/gameWork.7256c93648ebf1298668.jpg",
     "static/media/gamecatchWork.jpg": "./static/media/gamecatchWork.e615a15652af4ebddafc.jpg",
     "index.html": "./index.html",
-    "main.77ef3392.css.map": "./static/css/main.77ef3392.css.map",
-    "main.e2deeeea.js.map": "./static/js/main.e2deeeea.js.map"
+    "main.b104f4bb.css.map": "./static/css/main.b104f4bb.css.map",
+    "main.17cb2c7e.js.map": "./static/js/main.17cb2c7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.77ef3392.css",
-    "static/js/main.e2deeeea.js"
+    "static/css/main.b104f4bb.css",
+    "static/js/main.17cb2c7e.js"
   ]
 }

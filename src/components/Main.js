@@ -14,16 +14,16 @@ const Main = () => {
             <p>Jr.Frontend Developer</p>
 
             <div className="icons">
-              <a href="https://twitter.com/patrimalvido">
+              <a href="https://twitter.com/patrimalvido" title='Twitter'>
                 <Twitter className="icon" />
               </a>
-              <a href="https://www.instagram.com/patrimalvido/">
+              <a href="https://www.instagram.com/patrimalvido/" title='Instagram'>
                 <Instagram className="icon" />
               </a>
-              <a href="https://www.linkedin.com/in/patri-malvido-paz%C3%B3-9a4632230/">
-                <LinkedIn className="icon" />
+              <a href="https://www.linkedin.com/in/patri-malvido-paz%C3%B3-9a4632230/" title='Linkedin'>
+                <LinkedIn className="icon"/>
               </a>
-              <a href="https://github.com/PatriMalvido">
+              <a href="https://github.com/PatriMalvido" title='Github'>
                 <GitHub className="icon" />
               </a>
             </div>
