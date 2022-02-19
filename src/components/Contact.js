@@ -5,7 +5,7 @@ import '../styles/layout/Contact.scss';
 const Contact = () => {
   return (
     <div className="contact">
-        <form action="https://formspree.io/f/meqvyvyy" method="post" className='form'>
+        <form action="https://formspree.io/f/mbjwozrb" method="post" className='form'>
       <Link to="/">
           <ArrowBack className='arrow'/>
       </Link>
