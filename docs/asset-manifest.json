@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.d22a16f2.css",
-    "main.js": "./static/js/main.81eba9a9.js",
+    "main.js": "./static/js/main.d90bcbe0.js",
     "static/media/imgcode.jpg": "./static/media/imgcode.62f4f2cd1f9e46f0e328.jpg",
     "static/media/maquetacionWork.jpg": "./static/media/maquetacionWork.4faa4f77157c51959693.jpg",
     "static/media/animeWork.jpg": "./static/media/animeWork.5e85ce274f9dbfe69e4b.jpg",
@@ -14,10 +14,10 @@
     "static/media/gamecatchWork.jpg": "./static/media/gamecatchWork.e615a15652af4ebddafc.jpg",
     "index.html": "./index.html",
     "main.d22a16f2.css.map": "./static/css/main.d22a16f2.css.map",
-    "main.81eba9a9.js.map": "./static/js/main.81eba9a9.js.map"
+    "main.d90bcbe0.js.map": "./static/js/main.d90bcbe0.js.map"
   },
   "entrypoints": [
     "static/css/main.d22a16f2.css",
-    "static/js/main.81eba9a9.js"
+    "static/js/main.d90bcbe0.js"
   ]
 }
