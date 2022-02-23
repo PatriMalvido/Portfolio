@@ -20,7 +20,7 @@ const Works = () => {
         </div>
         <div className="cards">
           <img src={harrypotterWork} alt="" />
-          <a href="https://patrimalvido.github.io/modulo-3-evaluacion-final-PatriMalvido/">
+          <a href="https://patrimalvido.github.io/web-harry-potter/">
             <button>See work</button>
           </a>
         </div>
